@@ -24,6 +24,11 @@
       executable = true;
     };
 
+    ".local/bin/overenginerring-calculator" = {
+      source = ../scripts/overenginerring-calculator.py;
+      executable = true;
+    };
+
     ".local/bin/wt-zed" = {
       source = ../scripts/wt-zed.py;
       executable = true;
